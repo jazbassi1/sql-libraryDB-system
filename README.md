@@ -18,3 +18,6 @@ A MySQL database designed to manage books, members, and loans in a library.
 1. Clone this repository:  
    ```bash  
    git clone https://github.com/jazbassi1/sql-libraryDB-system.git  
+
+##Bash
+mysql -u root -p < library_db.sql  
